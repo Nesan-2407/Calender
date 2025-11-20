@@ -2,8 +2,8 @@
 
 Simple Python Calendar CLI  Instant calendar access from your terminal! This neat Python utility displays any month from any year, featuring bulletproof input validation. No external libraries needed—just pure, fast, Python power.
 
-   <img width="191" height="162" alt="image" src="https://github.com/user-attachments/assets/3a26b2d4-96b0-4040-bc7e-79f768de8ee1" />
-        
+   <img width="411" height="367" alt="image" src="https://github.com/user-attachments/assets/f13992bd-13d2-4d97-a96f-da14dfdb7460" />
+
 
 🗓️ Command Line Calendar ViewerDisplay any month from any year instantly in your terminal!A lightweight, robust, and lightning-fast utility built purely in Python for command-line users who need quick access to calendar dates without leaving the terminal.
 
@@ -13,7 +13,9 @@ Cross-Platform: Works wherever Python runs (Linux, macOS, Windows).
 
 Output of my project
 
-  <img width="411" height="367" alt="image" src="https://github.com/user-attachments/assets/43cbc6bd-02b0-4736-a2e2-8522b9abada3" />
+   <img width="191" height="162" alt="image" src="https://github.com/user-attachments/assets/b949bb29-43c6-4135-b115-51db133a9c2b" />
+
+ 
 
                         
 
