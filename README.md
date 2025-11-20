@@ -12,5 +12,5 @@ Cross-Platform: Works wherever Python runs (Linux, macOS, Windows).
 
 Output of my project
 
-                                      <img width="191" height="162" alt="image" src="https://github.com/user-attachments/assets/2f982900-b042-4a95-8473-3e9fa7f11165" />
+                          <img width="191" height="162" alt="image" src="https://github.com/user-attachments/assets/2f982900-b042-4a95-8473-3e9fa7f11165" />
 
